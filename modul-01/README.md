@@ -26,15 +26,18 @@
 > 10. Print format header dengan kolom "No","Celcius","Kelvin","Reamur","Fahrenheit".
 > 11. Menginisialisasikan C = Suhu awal
 > 12. Menginisialisasikan No = 1
-> 13. Menggunakan while selama C ≤ Suhu akhir
-   13.1 Menghitung:
+> 13. Menggunakan while selama C ≤ Suhu akhi
+>    
+>     13.1 Menghitung:
 >      $$R = \frac{4}{5}$$
 >      $$F = \frac{9}{5}C + 32$$
->  13.2 Menampilkan hasil dalam bentuk tabel
->  13.3 Menambahkan nilai
+>
+>      13.2 Menampilkan hasil dalam bentuk tabel
+>
+>     13.3 Menambahkan nilai
 >     C = C + Selang
 >     N0 = No + 1
-> 14. Print "=" Sebanyak 60 untuk meniup botol
-> 15. Selesai 
+> 16. Print "=" Sebanyak 60 untuk meniup botol
+> 17. Selesai 
 
 
