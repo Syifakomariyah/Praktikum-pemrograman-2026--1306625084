@@ -10,9 +10,9 @@
 > Membuat sebuah perogram yang dapat menghitung dan menampilkan tabel konversi suhu dari Celcius ke Kelvin, Reamur dan Fahrenheit. Program menggunakan konsep print format dan while loop untuk menghasilkan output berupa tabel dengan nilai suhu awal, suhu akhir, dan selang terntentu.
 
 ## 2. Mathematical Equation
+> $$K = C + 273$$
 > $$R = \frac{4}{5}$$
 > $$F = \frac{9}{5}C + 32$$
-> $$C = \frac{5}{9}(F - 32)$$
 
 ## 3. Algorithm
 > 1. Mulai
