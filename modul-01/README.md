@@ -7,10 +7,9 @@
 ---
 
 ## 1. Problem Statement
-> Membuat sebuah perogram yang dapat menghitung dan menampilkan tabel konversi suhu dari Celcius ke Kelvin, Reamur dan Fahrenheit. Program menggunakan konsep print format dan while loop untuk menghasilkan output berupa tabel dengan nilai suhu awal, suhu akhir, dan selang terntentu.
+> Membuat program yang dapat menghitung dan menampilkan tabel konversi suhu dari Celcius ke Reamur dan Fahrenheit. Program menggunakan konsep print format dan while loop untuk menghasilkan output berupa tabel dengan nilai suhu awal, suhu akhir, dan selang tertentu.
 
 ## 2. Mathematical Equation
-> $$K = C + 273$$
 > $$R = \frac{4}{5}$$
 > $$F = \frac{9}{5}C + 32$$
 
@@ -22,9 +21,20 @@
 > 5. Input "Suhu Awal: 0"
 > 6. Input "Suhu Akhir: 100"
 > 7. Input "Selang: 10"
-> 8. Print "TABEL KONVERSI" 
-> 9. Print format header dengan kolom "No","Celcius","Kelvin","Reamur","Fahrenheit".
-> 10. Hitung Celcius ke Reamur : 4/5
-> 11. Hitung Celcius ke Fahrenheit :
-> 12. Print Hasil
-> 13. Selesai 
+> 8. Print "TABEL KONVERSI"
+> 9. Print "=" Sebanyak 60 untuk garis tabel bagian atas.
+> 10. Print format header dengan kolom "No","Celcius","Kelvin","Reamur","Fahrenheit".
+> 11. Menginisialisasikan C = Suhu awal
+> 12. Menginisialisasikan No = 1
+> 13. Menggunakan while selama C ≤ Suhu akhir
+   13.1 Menghitung:
+>      $$R = \frac{4}{5}$$
+>      $$F = \frac{9}{5}C + 32$$
+>  13.2 Menampilkan hasil dalam bentuk tabel
+>  13.3 Menambahkan nilai
+>     C = C + Selang
+>     N0 = No + 1
+> 14. Print "=" Sebanyak 60 untuk meniup botol
+> 15. Selesai 
+
+
