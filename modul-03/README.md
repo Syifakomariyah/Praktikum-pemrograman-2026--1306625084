@@ -2,7 +2,7 @@
 
 **Nama:** [Nama : Syifa Komariyah Septi Ningsih]  
 **NIM:** [NIM : 1306625084]  
-**Kelas:** [Kelas : Fisika C]  
+**Kelas:** [Kelas : Fisika C] 
 
 ---
 
